@@ -3,7 +3,10 @@ import argparse
 import sys
 import os
 
-banner = """
+AUTHOR = "Arnav Ghosh"
+
+banner = f"""
+{AUTHOR}
  ____ ___ _____ _
 |  _ \_ _|  ___| |      _ __  _   _
 | |_) | || |_  | |     | '_ \| | | |
